@@ -1,6 +1,6 @@
 ---
 repository:
-  name: swap
+  name: ansible-swap
   description: Ansible role to create and configure swap storage
   topics: ansible, role, ansible-role, hacktoberfest
 
